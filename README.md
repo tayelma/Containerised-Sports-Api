@@ -12,6 +12,11 @@ Before starting, ensure you have the following tools installed:
 
 ## Setup Instructions
 ### 1. Docker & Local Setup
+1. **Clone the repository**:
+``` sh
+    git clone https://github.com/tayelma/Containerised-Sports-Api.git
+```
+
 1. **Navigate to the Project Directory**:
 ``` sh
    cd sports-api-containerised
